@@ -1,2 +1,3 @@
-# aprocom-site
-Site da APROCOM - www.aprocom.com.br
+# Site da APROCOM
+
+Site estático de www.aprocom.com.br, publicado pelo Cloudflare Pages.
